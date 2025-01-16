@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Bruno Silva-Cubillos
 
-I am a Computer Science student from Montreal, currently studying at Lasalle College. I am passionate to bring an advancement to our technology with my skills and to create new contacts with likeminded individuals. I am an adept at using Java, C#, Python, and Swift. I have knowledge in Cloudbase databases such as Firebase and am currently looking into AWS to expand my skill range.
+I am a Computer Science student from Montreal, currently studying at Lasalle College. I am passionate to bring an advancement to our technology with my skills and to create new contacts with likeminded individuals. I am an adept at using Java, C#, Python, Swift, and front-end languages such as PHP and JavaScript. I have knowledge in Cloudbase databases such as Firebase and am currently looking into AWS to expand my skill range.
 
 Follow my LinkedIn at [@bscubillos](https://linkedin.com/in/bscubillos/)
 
