@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I am Bruno Silva-Cubillos
+
+I am a Computer Science student from Montreal, currently studying at Lasalle College. I am passionate to bring an advancement to our technology with my skills and to create new contacts with likeminded individuals. I am an adept at using Java, C#, Python, and Swift. I have knowledge in Cloudbase databases such as Firebase and am currently looking into AWS to expand my skill range.
+
+Follow my Linkedin at linkedin.com/in/bscubillos/
+
 
 <!--
 **FireLordBruno/FireLordBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
